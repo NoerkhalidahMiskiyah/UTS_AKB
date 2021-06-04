@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">uts</string>
+    <string name="Home">Home</string>
+    <string name="DailyActivity">Daily Activity</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Music_Video">Music Video</string>
+    <string name="Profile">Profile</string>
+    <string name="saya">Saya Noerkhalidah Miskiyah</string>
+    <string name="sedang">Saat ini saya sedang Menempuh Pendidikan S1 di Universitas Komputer Indonesia</string>
+
+</resources>
